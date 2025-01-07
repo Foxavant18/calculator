@@ -13,3 +13,13 @@ func internalSum(number int) int { //Privado
 func Sum(number1, number2 int) int { //Publico
 	return number1 + number2
 }
+
+// Resta de dos numeros enteros
+func Rest(number1, number2 int) int {
+	return number1 - number2
+}
+
+// Multiplicacion de dos numeros enteros
+func Plus(number1, number2 int) int {
+	return number1 * number2
+}
